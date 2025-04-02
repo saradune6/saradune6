@@ -52,8 +52,6 @@ I specialize in **LLM Agents, Deep Learning, and Transformers**, working on AI-d
 ---
 
 ## 📊 **GitHub Stats**  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saradune6&show_icons=true&theme=light)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saradune6&layout=compact&theme=light)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saradune6&theme=light)](https://git.io/streak-stats)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saradune6&show_icons=true&theme=light)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saradune6&layout=compact&theme=light)  
 
 ---
