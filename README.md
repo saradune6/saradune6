@@ -5,7 +5,8 @@ I specialize in **LLM Agents, Deep Learning, and Transformers**, working on AI-d
 
 ---
 
-## 🌍 **Connect with Me**   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-choudhary-1203a724a/)  
+## 🌍 **Connect with Me**       [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-choudhary-1203a724a/)  
+
 ---
 
 ## 🏢 Work Experience  
