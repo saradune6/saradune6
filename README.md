@@ -13,7 +13,7 @@ I specialize in **LLM Agents, Deep Learning, and Transformers**, working on AI-d
 
 ### **Associate Data Scientist III**  
 📍 CARS24 | Gurugram, India | **Mar 2025 - Present**  
-- *****KYC IntelliFlow
+✅ **KYC IntelliFlow**
 - Built a blurriness detection model using Swin Transformer for scanned document quality assessment.
 - Automated Aadhaar masking with RapidOCR, PyTesseract, and Google Vision API for PII redaction.
 - Scraped and autofilled Aadhaar, PAN, and Voter ID data using Selenium automation. Integrated Google Gemini API for real-time CAPTCHA solving in Selenium workflows.
