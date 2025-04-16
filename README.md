@@ -13,9 +13,11 @@ I specialize in **LLM Agents, Deep Learning, and Transformers**, working on AI-d
 
 ### **Associate Data Scientist III**  
 📍 CARS24 | Gurugram, India | **Mar 2025 - Present**  
-- Developing **AI-driven models** for fraud detection and pricing optimization in automotive e-commerce.  
-- Building **ML pipelines** for predictive analytics and customer behavior modeling.  
-
+- *****KYC IntelliFlow
+- Built a blurriness detection model using Swin Transformer for scanned document quality assessment.
+- Automated Aadhaar masking with RapidOCR, PyTesseract, and Google Vision API for PII redaction.
+- Scraped and autofilled Aadhaar, PAN, and Voter ID data using Selenium automation. Integrated Google Gemini API for real-time CAPTCHA solving in Selenium workflows.
+- Deployed document automation pipelines at Cars24, enhancing KYC speed and accuracy.
 ### **AI Engineer**  
 📍 Legal-Pythia | Glasgow, UK | **Jan 2025 - Mar 2025**  
 ✅ **Chatbot Development for FinTech**  
