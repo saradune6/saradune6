@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Sara Choudhary]  
+# 👋 Hi, I'm Sara Choudhary 
 🚀 **Data Scientist | LLM Engineer | Deep Learning & Transformers Enthusiast**  
 
 I specialize in **LLM Agents, Deep Learning, and Transformers**, working on AI-driven solutions for fintech, analytics, and automation. My expertise spans **NLP, ML models, and scalable data solutions** that power intelligent systems.
