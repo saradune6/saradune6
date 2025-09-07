@@ -13,11 +13,28 @@ I specialize in **LLM Agents, Deep Learning, and Transformers**, working on AI-d
 
 ### **Associate Data Scientist III**  
 📍 CARS24 | Gurugram, India | **Mar 2025 - Present**  
-✅ **KYC IntelliFlow**
-- Built a blurriness detection model using Swin Transformer for scanned document quality assessment.
-- Automated Aadhaar masking with RapidOCR, PyTesseract, and Google Vision API for PII redaction.
-- Scraped and autofilled Aadhaar, PAN, and Voter ID data using Selenium automation. Integrated Google Gemini API for real-time CAPTCHA solving in Selenium workflows.
-- Deployed document automation pipelines at Cars24, enhancing KYC speed and accuracy.
+✅ **Aadhaar Masking Automation**  
+- Built a blurriness detection model using **Swin Transformer** to assess scanned document quality.  
+- Automated Aadhaar number and QR code masking using **RapidOCR**, **PyTesseract**, and **Google Vision API**.  
+- Enhanced KYC automation with real-time **PII redaction**, reducing manual effort.  
+- Delivered **₹10L/month** cost savings through efficient document processing.  
+
+✅ **FCU (Fraud Control Unit) Automation**  
+- Designed a fully automated **FCU pipeline** combining image quality checks and OCR-based data extraction.  
+- Built **parallel Selenium automation APIs** to validate user identity via government portals.  
+- Integrated **Google Gemini API** for real-time CAPTCHA solving in the verification flow.  
+- Improved fraud detection accuracy, resulting in **₹85L/year** cost savings.  
+
+✅ **Insurance Propensity Model**  
+- Developed and deployed a **CatBoost classification model** to predict insurance purchase likelihood.  
+- Achieved a **lift of 2** across deciles, enabling targeted sales interventions.  
+- Drove **₹50L/month** incremental revenue impact through improved targeting.  
+
+✅ **Feature Mart by Agentic AI**  
+- Built an **Agentic AI–powered feature mart** with 10,000+ features across Bureau, Buy, Sell, Marketing, Calling, and Service data.  
+- Automated **Snowflake queries**, data flattening, and **LLM-driven feature creation**, cutting analytics turnaround by **40%**.  
+- Delivered **validated, LLM-generated features** improving model accuracy and campaign targeting effectiveness.  
+  
 ### **AI Engineer**  
 📍 Legal-Pythia | Glasgow, UK | **Jan 2025 - Mar 2025**  
 ✅ **Chatbot Development for FinTech**  
